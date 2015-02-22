@@ -9,8 +9,8 @@ The 30 volunteers (named the _subject_ in the program) are within an age bracket
 
 ## Content
 
-* *run_analysis.R* : program generating tidy dataset from the raw Human Activity Recognition dataset
-* *UCI HAR Dataset* : raw dataset of accelerometer and gyroscope
+* **run_analysis.R** : program generating tidy dataset from the raw Human Activity Recognition dataset
+* **UCI HAR Dataset** : raw dataset of accelerometer and gyroscope
 
 For informations about the data see `CodeBook.md`
 
